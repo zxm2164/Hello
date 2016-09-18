@@ -1,1 +1,8 @@
-test file
+1. git init
+2. git add "file name"
+3. git commit "first commit"
+4. git push
+
+5. git add "hello.txt"
+6. git commit "add hello.txt"
+7. git push
