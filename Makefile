@@ -1,2 +1,2 @@
 hellomake: hello-world.c
-	gcc -o hellomake hello-world.c -I.
+	gcc -o --target=me300 hellomake hello-world.c -I.
